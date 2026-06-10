@@ -1,0 +1,13 @@
+user
+↓
+PowerShell
+↓
+ai command
+↓
+ask_ai.py
+↓
+Azure AI Foundry
+↓
+GPT-4.1-mini
+↓
+Answer
